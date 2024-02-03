@@ -1,0 +1,46 @@
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #f0f0f0;
+    overflow: hidden; /* Add this line to hide overflow */
+}
+
+.slider-container {
+    position: relative;
+    overflow: hidden; /* Add this line to hide overflow */
+    max-width: 90%; /* Adjust the maximum width as needed */
+    margin: 0 auto; /* Center the slider container */
+}
+
+.slider {
+    display: flex;
+    transition: transform 0.5s ease-in-out;
+    width: 300%; /* Adjust the width based on the number of images */
+}
+
+img {
+    width: 100%;
+    object-fit: cover;
+    height: auto; /* Maintain the aspect ratio of the images */
+}
+
+button {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    font-size: 18px;
+    padding: 10px;
+    cursor: pointer;
+}
+
+#prevBtn {
+    left: 10px;
+}
+
+#nextBtn {
+    right: 10px;
+}
