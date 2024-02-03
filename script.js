@@ -1,3 +1,5 @@
+
+
 document.addEventListener("DOMContentLoaded", function () {
     // Get elements
     const slider = document.querySelector(".slider");
