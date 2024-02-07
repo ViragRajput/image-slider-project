@@ -48,7 +48,7 @@ image-slider-project
 - **images**: Folder containing image files.
 
 ## Note
-🚧 **This project is created for educational purposes and is not recommended for production use. Please use it exclusively for learning purposes. If you encounter any issues or have suggestions for enhancements, feel free to open an issue or submit a pull request. Your feedback is highly appreciated!** 🚀
+🚧 This project is created for educational purposes and is not recommended for production use. Please use it exclusively for learning purposes. If you encounter any issues or have suggestions for enhancements, feel free to open an issue or submit a pull request. Your feedback is highly appreciated! 🚀
 
 
 
