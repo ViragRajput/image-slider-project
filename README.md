@@ -48,9 +48,7 @@ image-slider-project
 - **images**: Folder containing image files.
 
 ## Note
-This project is created for educational purposes and is not recommended for production use.
-
-
+📚 This project is crafted for my personal learning experience. It might have a few quirks, so use it with a playful spirit! Feel free to share your thoughts or report any issues. Contributions are always welcome. Happy coding! 🚀
 
 ## Contributing
 
