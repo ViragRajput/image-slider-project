@@ -48,9 +48,8 @@ image-slider-project
 - **images**: Folder containing image files.
 
 ## Note
-This Image Slider project is a practical exercise to strengthen your HTML, CSS, and JavaScript skills. By building this simple slider, you'll gain hands-on experience in creating responsive interfaces and handling user interactions. Feel free to explore and customize the code to solidify your web development skills.
+🚧 **This project is created for educational purposes and is not recommended for production use. Please use it exclusively for learning purposes. If you encounter any issues or have suggestions for enhancements, feel free to open an issue or submit a pull request. Your feedback is highly appreciated!** 🚀
 
-Happy coding!
 
 
 ## Contributing
